@@ -1,14 +1,18 @@
-import Navbar from './Navbar';
+
 import './App.css';
-import Hero from './Hero'
-import Body from './Body'
+
+import Hero from './components/Hero'
+import Body from './components/Body'
+import Footer from './components/Footer'
+
 function App() {
+
   return (
-    <div >
-    <Navbar></Navbar>
-    <Hero></Hero>
-    <Body></Body>
-    </div>
+    <body >
+      <Hero></Hero>
+      <Body></Body>
+      <Footer></Footer>
+    </body>
   );
 }
 

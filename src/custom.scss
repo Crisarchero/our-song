@@ -1,0 +1,23 @@
+
+
+$primary: #7f433e;
+$secondary: #e8ccb2;
+$light: #a83227;
+@import '~bootstrap/scss/bootstrap.scss';
+
+footer h6{ 
+    color:$secondary;
+  }
+
+#categories-section{
+    color:$secondary;
+  }
+
+#categories-section img{
+    background-color:$secondary;
+}
+
+#item-container, header h1{
+    color:$primary;
+  }
+
