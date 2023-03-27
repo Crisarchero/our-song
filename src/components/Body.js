@@ -11,12 +11,16 @@ import keyboard from '../imgs/keyboard.jpg'
 
 const Body = () => {
   const popularItems = [
-    {title:"A Guitar", img:guitar},{title:"A Violin", img:violin},{title:"Headphones",img:headphones}]
+    {title:"A Guitar", img:guitar},
+    {title:"A Violin", img:violin},
+    {title:"Headphones",img:headphones}
+  ]
   const salesItems = [
     {title:"Headphones",img:salesHeadphones},
     {title:"A trumpet",img:trumpet},
     {title:"An accordion",img:accordion},
-    {title:"A keyboard",img:keyboard}]
+    {title:"A keyboard",img:keyboard}
+  ]
 
   return (
     <div>

@@ -12,18 +12,18 @@ const Categories = () => {
       <div className="w-100 d-flex justify-content-center align-items-center">
 
         <div className='w-50 d-flex flex-md-row flex-sm-column flex-wrap p-5 mt-5 mb-5 justify-content-center align-items-center'>
-          <a href="">< img className="m-5 border rounded-circle p-3" src={piano} alt="See Pianos" />
+          <a href=".">< img className="m-5 border rounded-circle p-3" src={piano} alt="See Pianos" />
           </a>
-          <a href="">
+          <a href=".">
             < img className="m-5 border rounded-circle p-3" src={guitar} alt="See Guitars" />
           </a>
-          <a href="">
+          <a href=".">
             < img className="m-5 border rounded-circle p-3" src={recorder} alt="See Woodwinds" />
           </a>
-          <a href="">
+          <a href=".">
             < img className="m-5 border rounded-circle p-3" src={string} alt="See Other Strings" />
           </a>
-          <a href="">
+          <a href=".">
             < img className="m-5 border rounded-circle p-3" src={drums} alt="See Percussion" />
           </a>
         </div>

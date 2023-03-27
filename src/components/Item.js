@@ -1,6 +1,7 @@
 import React from 'react'
 
 const Item = (prop) => {
+  //These are the items that the item container contains.
   return (
     <li id = "item" className ="shadow list-group-item flex-fill ms-2 me-2 text-center position">
       <a href = ".">
