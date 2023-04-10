@@ -21,7 +21,7 @@ h2 {
   max-height: 100vh;
   padding: 0;
   margin: 0;
-  background-image: url("imgs/hero-background.png");
+  background-image: url("imgs/hero-background.jpg");
   background-size: cover;
 
   h2 {
@@ -53,17 +53,17 @@ header h1 {
 }
 
 #item-container:first-of-type {
-  background-image: url("imgs/items_background_1.png");
+  background-image: url("imgs/items_background_1.jpg");
   background-size: cover;
 }
 
 #item-container:last-of-type {
-  background-image: url("imgs/items_background_2.png");
+  background-image: url("imgs/items_background_2.jpg");
   background-size: cover;
 }
 
 #categories-section {
-  background-image: url("imgs/cat_background.png");
+  background-image: url("imgs/cat_background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 
@@ -96,7 +96,7 @@ header h1 {
 }
 
 footer {
-  background-image: url('imgs/cat_background.png');
+  background-image: url('imgs/cat_background.jpg');
   background-size: cover;
   overflow: hidden;
 }
