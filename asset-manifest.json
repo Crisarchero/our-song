@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/our-song/static/css/main.5f4bafe3.css",
+    "main.css": "/our-song/static/css/main.7e85e36d.css",
     "main.js": "/our-song/static/js/main.a346939a.js",
     "static/media/hero_image.PNG": "/our-song/static/media/hero_image.858cebb3cfca72bbcdcd.PNG",
     "static/media/violin.jpg": "/our-song/static/media/violin.cb656a22b189490d89c9.jpg",
@@ -15,11 +15,11 @@
     "static/media/headphones-sale.jpg": "/our-song/static/media/headphones-sale.1ad1a0800b7c998cbd98.jpg",
     "static/media/hero-background.jpg": "/our-song/static/media/hero-background.5cbcd5bd73b02b417db5.jpg",
     "index.html": "/our-song/index.html",
-    "main.5f4bafe3.css.map": "/our-song/static/css/main.5f4bafe3.css.map",
+    "main.7e85e36d.css.map": "/our-song/static/css/main.7e85e36d.css.map",
     "main.a346939a.js.map": "/our-song/static/js/main.a346939a.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f4bafe3.css",
+    "static/css/main.7e85e36d.css",
     "static/js/main.a346939a.js"
   ]
 }
