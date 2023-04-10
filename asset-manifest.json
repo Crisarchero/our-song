@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/our-song/static/css/main.e3e9b324.css",
+    "main.css": "/our-song/static/css/main.5f4bafe3.css",
     "main.js": "/our-song/static/js/main.a346939a.js",
-    "static/media/cat_background.png": "/our-song/static/media/cat_background.016bde50c0bf60a17de0.png",
     "static/media/hero_image.PNG": "/our-song/static/media/hero_image.858cebb3cfca72bbcdcd.PNG",
-    "static/media/items_background_2.png": "/our-song/static/media/items_background_2.2ca19259fee850414246.png",
-    "static/media/items_background_1.png": "/our-song/static/media/items_background_1.723a32e8b7be6f151de8.png",
     "static/media/violin.jpg": "/our-song/static/media/violin.cb656a22b189490d89c9.jpg",
     "static/media/guitar-upright.jpg": "/our-song/static/media/guitar-upright.c2e953700a13f9d39fa6.jpg",
-    "static/media/hero-background.png": "/our-song/static/media/hero-background.c06dd105a72021be549f.png",
     "static/media/accordion.jpg": "/our-song/static/media/accordion.4fb14f612b0ad32d49fb.jpg",
     "static/media/trumpet.jpg": "/our-song/static/media/trumpet.8624543f2cfd1b7ea5e9.jpg",
     "static/media/headphones.jpg": "/our-song/static/media/headphones.4d02f781dea58a9f2f01.jpg",
+    "static/media/cat_background.jpg": "/our-song/static/media/cat_background.8786a8385fab3adf5bcf.jpg",
     "static/media/keyboard.jpg": "/our-song/static/media/keyboard.72ac61add233e28e432b.jpg",
+    "static/media/items_background_2.jpg": "/our-song/static/media/items_background_2.38a76d080b2c8d68b159.jpg",
+    "static/media/items_background_1.jpg": "/our-song/static/media/items_background_1.7425fef076cfb3819a8e.jpg",
     "static/media/headphones-sale.jpg": "/our-song/static/media/headphones-sale.1ad1a0800b7c998cbd98.jpg",
+    "static/media/hero-background.jpg": "/our-song/static/media/hero-background.5cbcd5bd73b02b417db5.jpg",
     "index.html": "/our-song/index.html",
-    "main.e3e9b324.css.map": "/our-song/static/css/main.e3e9b324.css.map",
+    "main.5f4bafe3.css.map": "/our-song/static/css/main.5f4bafe3.css.map",
     "main.a346939a.js.map": "/our-song/static/js/main.a346939a.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3e9b324.css",
+    "static/css/main.5f4bafe3.css",
     "static/js/main.a346939a.js"
   ]
 }
