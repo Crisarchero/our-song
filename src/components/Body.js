@@ -11,15 +11,15 @@ import keyboard from '../imgs/keyboard.jpg'
 
 const Body = () => {
   const popularItems = [
-    {title:"A Guitar", img:guitar},
-    {title:"A Violin", img:violin},
-    {title:"Headphones",img:headphones}
+    {title: "A Guitar", img: guitar, price: "$1500.00"},
+    {title: "A Violin", img: violin, price: "$750.00"},
+    {title: "Headphones", img: headphones, price: "$350.00" }
   ]
   const salesItems = [
-    {title:"Headphones",img:salesHeadphones},
-    {title:"A trumpet",img:trumpet},
-    {title:"An accordion",img:accordion},
-    {title:"A keyboard",img:keyboard}
+    {title: "Headphones", img: salesHeadphones, formerPrice: "$480.99", price: "$380.99"},
+    {title: "A trumpet", img: trumpet,  formerPrice: "$379.99", price: "$279.99"},
+    {title: "An accordion", img: accordion,  formerPrice: "$800.99", price: "$750.99"},
+    {title: "A keyboard", img: keyboard,  formerPrice: "$180.99", price: "$145.00"}
   ]
 
   return (
